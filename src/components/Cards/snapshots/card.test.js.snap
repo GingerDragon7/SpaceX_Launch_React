@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<Card
+  event={
+    Object {
+      "flight_number": "1",
+      "launch_date_local": "2020-08-24T15:59:15.582Z",
+      "launch_success": true,
+      "links": Object {
+        "mission_patch_small": "https://images2.imgbox.com/4f/e3/I0lkuJ2e_o.png",
+      },
+      "mission_id": Array [
+        "123",
+      ],
+      "mission_name": "test name",
+      "rocket": Object {
+        "first_stage": Object {
+          "cores": Array [
+            Object {
+              "land_success": false,
+            },
+          ],
+        },
+      },
+    }
+  }
+/>
+`;
