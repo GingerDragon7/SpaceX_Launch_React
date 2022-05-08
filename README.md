@@ -6,6 +6,19 @@
 
 Live site! https://spacex-reactjs.herokuapp.com/
 
+![spacex-react](https://user-images.githubusercontent.com/17198965/167310189-b88543ad-3808-4a36-b4ee-969ab3c4196f.png)
+
+Here's the feature's included in this project
+
+- 🌐 Full Responsive React Web Application
+- 👨‍👩‍👧‍👦 Creating a User Interface
+- 📦 Working with real-time SpaceX API
+- 📝 Fetching data from unlimited sources
+- ❄ Exclusive working with APIs
+- 🌐 Advanced React Best Practices such as folder & file structure, hooks and refs
+
+
+
 ## Project Set Up
 
 - [ ] Create a forked copy of this project.
