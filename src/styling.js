@@ -11,10 +11,12 @@ export const AppContainer = styled.div`
 `;
 
 export const Header = styled.div`
+  text-align: center;
+  background-color: #d1cdcd;
   font-size: 27px;
   color: black;
   font-weight: 700;
-  padding: 5px 20px;
+  padding: 15px 20px;
   @media screen and (max-width: 700px) {
     display: flex;
     flex-direction: column;
